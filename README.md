@@ -4,7 +4,7 @@ I am Ersel. I am interested in Data Science and I am currently learning Data Sci
 > just someone who loves to learn and always wants to be a student.
 <br/>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Contact with me</h3>
 <p align="center">
 <a href="mailto:ersel.kizmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ersel.kizmaz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
