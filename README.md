@@ -2,8 +2,6 @@
 
 I am Ersel. I am interested in Data Science and I am currently learning Data Science. I am also into other fun and educational things.
 > just someone who loves to learn and always wants to be a student.
-
-<br/>
 <br/>
 
 <h3 align="center">Connect with me</h3>
@@ -21,7 +19,6 @@ I am Ersel. I am interested in Data Science and I am currently learning Data Sci
 </div>
 <br/>
 
-
 <h3 align="center">Tech I use</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="28" height="28">
@@ -33,14 +30,12 @@ I am Ersel. I am interested in Data Science and I am currently learning Data Sci
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28" height="28">
 </p>
 <br/>
-<br/>
 
-
-<h2><details align="center"> <summary>My GitHub Stats :bar_chart: </summary>
+<h4><details align="center"> <summary>My GitHub Stats :bar_chart: </summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mrkizmaz&show_icons=true&theme=tokyonight" width="350" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkizmaz&langs_count=8&theme=tokyonight" height="180">
-</details> </h2>
+</details> </h4>
 
 
 [1]: https://www.linkedin.com/in/mrkizmaz/
