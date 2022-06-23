@@ -4,19 +4,14 @@ I am Ersel. I am interested in Data Science and I am currently learning Data Sci
 > just someone who loves to learn and always wants to be a student.
 <br/>
 
-<h3 align="center">Contact with me</h3>
-<p align="center">
-<a href="mailto:ersel.kizmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ersel.kizmaz@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-
 <div align="center">
+<h3 align="center">Contact with me</h3>
+<a href="mailto:ersel.kizmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ersel.kizmaz@gmail.com-blue?style=flat&logo=gmail"></a> </br>
 
 [<img height="28" width="28" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][1]
 [<img height="28" width="28" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][2]
 [<img height="28" width="28" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][3]
-
 </div>
-<br/>
 
 <h3 align="center">Tech I use</h3>
 <p align="center">
