@@ -7,13 +7,13 @@ I'm Ersel. I’m interested in Data Science, Web Development and I’m currently
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="mailto:ersel.kizmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ersel.kizmaz@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 <br/>
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][1]
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][2]
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][3]
+[<img align="center" height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />](https://www.linkedin.com/in/mrkizmaz/)
+[<img align="center" height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />](https://medium.com/@mrkizmaz)
+[<img align="center" height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/mrkizmaz)
 
-</p>
 <br/>
 
 
@@ -32,11 +32,7 @@ I'm Ersel. I’m interested in Data Science, Web Development and I’m currently
 
 
 <h2><details align="center"> <summary>My GitHub Stats :bar_chart: </summary>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mrkizmaz&show_icons=true&theme=tokyonight" width="350" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkizmaz&langs_count=8&theme=tokyonight" height="180">
 </details> </h2>
-
-
-[1]: https://www.linkedin.com/in/mrkizmaz/
-[2]: https://medium.com/@mrkizmaz
-[3]: https://twitter.com/mrkizmaz
