@@ -8,7 +8,6 @@ I am Ersel. I am interested in Data Science and I am currently learning Data Sci
 <p align="center">
 <a href="mailto:ersel.kizmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ersel.kizmaz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-<br/>
 
 <div align="center">
 
