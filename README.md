@@ -1,4 +1,4 @@
-### Hello, Welcome To My Github Profile 👋
+<h2 align="center"> Hello, Welcome To My Github Profile 👋 </h2>
 
 I am Ersel. I am interested in Data Science and I am currently learning Data Science. I am also into other fun and educational things.
 > just someone who loves to learn and always wants to be a student.
