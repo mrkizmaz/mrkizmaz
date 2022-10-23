@@ -5,6 +5,7 @@ While working with data, I am enjoying and present the data with my storytelling
 > just someone who loves to learn and always wants to be a student.
 <br/>
 
+:point_right: To visit <a target="_blank" href="http://ersel-portfolio.s3-website-eu-west-1.amazonaws.com">my static website</a>
 <div align="center">
 <h2 align="center">Contact with me :e-mail:</h2>
 <a href="mailto:ersel.kizmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ersel.kizmaz@gmail.com-blue?style=flat&logo=gmail"></a> </br>
@@ -37,6 +38,7 @@ While working with data, I am enjoying and present the data with my storytelling
 </details> </h3>
 
 
+[0]: http://ersel-portfolio.s3-website-eu-west-1.amazonaws.com
 [1]: https://www.linkedin.com/in/mrkizmaz/
 [2]: https://medium.com/@mrkizmaz
 [3]: https://twitter.com/mrkizmaz
