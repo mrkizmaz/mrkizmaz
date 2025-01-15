@@ -12,7 +12,7 @@ While working with data, I am enjoying and present the data with my storytelling
 
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][1]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][2]
-[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][3]
+[<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg">][3]
 </div>
 <br/>
 
